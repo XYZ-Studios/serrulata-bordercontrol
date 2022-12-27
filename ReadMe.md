@@ -12,6 +12,7 @@ PlayerData.metadata['acceptrules'] = PlayerData.metadata['acceptrules'] or false
 ```
 - Place the source folder into either serrulata-studios folder or anywhere else
 
+`` You can also add Webhook on serrulata-bordercontrol --> server --> main.lua ``
 
 # **Config Preview**
 ![Serrulata](https://i.imgur.com/kpfNXc2.png)
