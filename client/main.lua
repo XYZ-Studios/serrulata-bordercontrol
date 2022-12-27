@@ -123,7 +123,7 @@ function PolyDoMeHard()
         CockZone,
         {
             name = "ZoneCombo",
-            debugPoly = true
+            debugPoly = false
         }
     )
 
